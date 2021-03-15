@@ -60,17 +60,5 @@ La forma de trabajo que se va a utilizar este año consiste en los siguientes pa
 11. Observar como los commits en la branch "master" estan tanto en local (simbolo notebook) como en remoto (icono del usuario de GitHub). Para cambiar esto pushear los cambios a remoto con el siguiente boton
 ![tutoGit_P16](https://user-images.githubusercontent.com/41701343/111102098-0e4d4e00-852a-11eb-8c0c-8e009a2a0883.png)
 
----------------------------
-> La siguiente seccion es utilizada para facilitar la correcion/visado de los trabajos por parte de los profesores
 12. Agregar el repositorio de la catedra a remote, de manera de que pueda tener los ultimas actualizaciones a los ejercicios y sea capaz de realizar pull request a este
 ![tutoGit_P17](https://user-images.githubusercontent.com/41701343/111102253-697f4080-852a-11eb-8c81-a59aed316325.png)
-
-13. Arrastar la branch donde se estuvo trabajando en el repo forkeado hacia la branch master del repositorio perteneciente a la organizacion GitHub de la catedra
-![tutoGit_P18](https://user-images.githubusercontent.com/41701343/111102488-f32f0e00-852a-11eb-8b39-bc9b4c42ab50.png)
-
-14. Al salir el menu contextual, seleccionar la opcion de iniciar una pull request
-![tutoGit_P19](https://user-images.githubusercontent.com/41701343/111102605-41441180-852b-11eb-8b23-32f0a38d9492.png)
-
-15. Ingresar en el titulo el nombre del laboratorio + legajo + comision y agregar como reviewer al profesor/es correspondiente/s
-![tutoGit_P20](https://user-images.githubusercontent.com/41701343/111102660-66388480-852b-11eb-9b63-89f2e9bdff83.png)
-
