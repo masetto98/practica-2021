@@ -24,7 +24,7 @@ La forma de trabajo que se va a utilizar este año consiste en los siguientes pa
 2. Clonar el repo forkeado
 - Primero copiar al portapapeles la direccion url de este
 ![tutoGit_P2](https://user-images.githubusercontent.com/41701343/111100784-4606c680-8527-11eb-8e96-e00ed107bb12.png)
-- Luego acceder a GitKraken y ir al menu de clonacion y copiar la url anterior
+- Luego acceder a GitKraken y copiar la url anterior en el formulario de clonacion
 ![tutoGit_P3](https://user-images.githubusercontent.com/41701343/111100928-9aaa4180-8527-11eb-8d9b-548e5f562a36.png)
 ![tutoGit_P4](https://user-images.githubusercontent.com/41701343/111100985-ba416a00-8527-11eb-9099-341edb9c4c60.png)
 
@@ -32,22 +32,23 @@ La forma de trabajo que se va a utilizar este año consiste en los siguientes pa
 ![tutoGit_P6](https://user-images.githubusercontent.com/41701343/111101096-f674ca80-8527-11eb-9518-2e316b3c6568.png)
 
 4. Cambiar la ubicacion predeterminada de los proyectos en Visual Studio
-- Ingresar "ubic" en la barra de busqueda
+- Ingresar "ubic" en la *Barra de Busqueda*
 ![tutoGit_P7](https://user-images.githubusercontent.com/41701343/111101162-16a48980-8528-11eb-8f06-77e28c36a81b.png)
-- Cambiar la ubicacion predeterminada a la direccion donde esta la carpeta clonada previamente
+- Cambiar la ubicacion predeterminada a la direccion donde esta el repositorio clonado previamente
 ![tutoGit_P8](https://user-images.githubusercontent.com/41701343/111101168-1906e380-8528-11eb-928b-78e6c17394dc.png)
 
-5. Ir a al menu desplegable en Archivo-Nuevo-Proyecto
+5. Ir a al menu desplegable en *Archivo*/*Nuevo*/*Proyecto*
 ![tutoGit_P9](https://user-images.githubusercontent.com/41701343/111101334-6f742200-8528-11eb-886f-e33286c1c9e5.png)
 
-6. Rellenar el nombre del laboratorio en ambos campos
+6. Llenar el nombre del laboratorio en el campo *Nombre del Proyecto*, el campo *Nombre de la Solucion* se ingresara automaticamente con el mismo valor. 
+- Luego clickear en el selector de archivos correpondiente al campo *Ubicacion*
 ![tutoGit_P10](https://user-images.githubusercontent.com/41701343/111101400-90d50e00-8528-11eb-9f25-9d2ea5fa675f.png)
-e ingresar como ubicacion la subcarpeta correspondiente a la unidad y el laboratorio en el que se quiera trabajar
+- Ingresar la subcarpeta correspondiente a la unidad y el laboratorio en el que se quiera trabajar
 ![tutoGit_P11](https://user-images.githubusercontent.com/41701343/111101521-dc87b780-8528-11eb-9c76-e42978b920b3.png)
 
 7. Seleccionar NET 5 en el menu de opciones
 
-8. Notar como los nuevos archivos se incluyen en el staging area y clickear en stage all changes
+8. Notar como los nuevos archivos se incluyen en el staging area (seccion donde estan los archivos marcados) y clickear en stage all changes
 ![tutoGit_P13](https://user-images.githubusercontent.com/41701343/111101580-faedb300-8528-11eb-88b8-d592ecd8b8f0.png)
 
 9. Crear una nueva branch con el siguiente formato: UnidadNLabZ con N y Z igual al numero de unidad y de laboratorio respectivamente
