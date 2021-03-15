@@ -2,6 +2,21 @@
 
 En el presente repositorio se encuentran todos los laboratorios que se van a utilizar en la catedra Tecnologías de Desarrollo de Software IDE, materia electiva de la UTN FRRo.
 
+Pre-Requisitios
+- Visual Studio
+> Programacion
+>
+> https://visualstudio.microsoft.com/es/downloads/
+- Usuario GitHub
+> Repositorios online
+> 
+> https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home
+- GitKraken
+> Control de versiones con repositorios Git locales
+> 
+> https://www.gitkraken.com/download
+
+
 La forma de trabajo que se va a utilizar este año consiste en los siguientes pasos:
 1. Forkear el repositorio oficial de practica seleccionando su usuario de GitHub
 ![tutoGit_P0](https://user-images.githubusercontent.com/41701343/111100579-d2fd5000-8526-11eb-83a3-119c0b2ce18e.png)
@@ -13,7 +28,7 @@ La forma de trabajo que se va a utilizar este año consiste en los siguientes pa
 ![tutoGit_P3](https://user-images.githubusercontent.com/41701343/111100928-9aaa4180-8527-11eb-8d9b-548e5f562a36.png)
 ![tutoGit_P4](https://user-images.githubusercontent.com/41701343/111100985-ba416a00-8527-11eb-9099-341edb9c4c60.png)
 
-3. Abrir la carpeta con Visual Studio desde el menu contextual (click der)
+3. Abrir la carpeta con Visual Studio desde el menu contextual (click derecho)
 ![tutoGit_P6](https://user-images.githubusercontent.com/41701343/111101096-f674ca80-8527-11eb-9518-2e316b3c6568.png)
 
 4. Cambiar la ubicacion predeterminada de los proyectos en Visual Studio
