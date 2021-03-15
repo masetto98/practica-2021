@@ -1,6 +1,6 @@
 # practica-2021
 
-En el presente repositorio se encuentran todos los laboratorios que se van a utilizar en la catedra Tecnologías de Desarrollo de Software IDE, materia electiva de la UTN FRRo.
+En el presente repositorio se encuentran todos los laboratorios que se van a utilizar en la asignatura Tecnologías de Desarrollo de Software IDE, materia electiva de la UTN FRRo.
 
 Pre-Requisitios
 - Visual Studio 2019 (NET)
@@ -60,5 +60,5 @@ La forma de trabajo que se va a utilizar este año consiste en los siguientes pa
 11. Observar como los commits en la branch "master" estan tanto en local (simbolo notebook) como en remoto (icono del usuario de GitHub). Para cambiar esto pushear los cambios a remoto con el siguiente boton
 ![tutoGit_P16](https://user-images.githubusercontent.com/41701343/111102098-0e4d4e00-852a-11eb-8c0c-8e009a2a0883.png)
 
-12. Agregar el repositorio de la catedra a remote, de manera de que pueda tener los ultimas actualizaciones a los ejercicios y sea capaz de realizar pull request a este
+12. Agregar el repositorio de la asignatura a remote, de manera de que pueda tener los ultimas actualizaciones a los ejercicios y sea capaz de realizar pull request a este
 ![tutoGit_P17](https://user-images.githubusercontent.com/41701343/111102253-697f4080-852a-11eb-8c81-a59aed316325.png)
